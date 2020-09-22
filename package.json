@@ -1,0 +1,32 @@
+{
+  "name": "discord-alty",
+  "version": "1.0.0",
+  "description": "mertkaraca3434 Alt yapı.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "baslat": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "mertkaraca3434",
+  "license": "MIT",
+  "homepage": "https://github.com/mertkaraca3434",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "distube": "^2.5.3",
+    "giphy-random": "^2.0.8",
+    "nodemon": "^2.0.4",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "random-anime": "^1.0.6",
+    "request": "^2.88.2",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "altyapi"
+  ]
+}
